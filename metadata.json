@@ -1,0 +1,7 @@
+{
+  "name": "गणित मित्र (Math Mitr) - Real-Life Maths Learning for Kids",
+  "description": "12–15 वर्ष के विद्यार्थियों के लिए Interactive Maths Learning App जो कठिन Maths concepts को आसान, मजेदार और real-life examples से समझाए।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
